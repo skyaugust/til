@@ -409,6 +409,10 @@ _336 TILs and counting..._
 - [Whole Line Auto-Completion](vim/whole-line-auto-completion.md)
 - [Wrap With Some Room](vim/wrap-with-some-room.md)
 
+### windows
+
+- [Kill process by given name](windows/kill-process-by-given-name)
+
 ## About
 
 I shamelessly stole this idea from
