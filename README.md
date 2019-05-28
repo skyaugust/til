@@ -411,7 +411,7 @@ _336 TILs and counting..._
 
 ### windows
 
-- [Kill process by given name](windows/kill-process-by-given-name)
+- [Kill process by given name](windows/kill-process-by-given-name.md)
 
 ## About
 
